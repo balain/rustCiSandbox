@@ -1,5 +1,5 @@
 [package]
-name = "rustCiSandbox"
+name = "rust_ci_sandbox"
 version = "0.1.0"
 authors = ["John D. Lewis <balain@users.noreply.github.com>"]
 edition = "2018"
